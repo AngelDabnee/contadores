@@ -1,0 +1,10 @@
+C:\Users\master\source\repos\cont\cont\bin\Debug\cont.exe.config
+C:\Users\master\source\repos\cont\cont\bin\Debug\cont.exe
+C:\Users\master\source\repos\cont\cont\bin\Debug\cont.pdb
+C:\Users\master\source\repos\cont\cont\obj\Debug\cont.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\cont\cont\obj\Debug\cont.csproj.SuggestedBindingRedirects.cache
+C:\Users\master\source\repos\cont\cont\obj\Debug\cont.Properties.Resources.resources
+C:\Users\master\source\repos\cont\cont\obj\Debug\cont.csproj.GenerateResource.cache
+C:\Users\master\source\repos\cont\cont\obj\Debug\cont.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\cont\cont\obj\Debug\cont.exe
+C:\Users\master\source\repos\cont\cont\obj\Debug\cont.pdb
